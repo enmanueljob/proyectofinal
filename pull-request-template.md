@@ -34,7 +34,7 @@ git checkout <feature_branch>
 bundle; script/server
 ```
 
-1. 
+1.
 
 ## Impacted Areas in Application
 List general components of the application that this PR will affect:
